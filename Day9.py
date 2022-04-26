@@ -29,7 +29,7 @@ def compute_grade(average):
     
 marks = [55,67,88,92,54]
 average = find_average(marks)
-print("Your average is", average)
+print("Your average is:", average)
 grade = compute_grade(average)
 print("Your grade is:", grade)
 
